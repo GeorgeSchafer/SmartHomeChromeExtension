@@ -5,7 +5,7 @@
   "version": "1.0",
   "action": {
     "default_popup": "./devices.html",
-    "default_icon": "./images/smartrent.png"
+    "default_icon": "./images/aparment-logo.svg"
   },
   "options_page": "./options.html",
   "options_ui": {
