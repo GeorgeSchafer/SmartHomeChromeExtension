@@ -1,20 +1,19 @@
 
 input {
     background-color: #333;
-    color: cyan;
 }
 
 form, p, footer, .device-wrapper, .code-wrapper {
-    color: cyan;
+    color: violet;
 } 
 
 form {
-    border: 1px solid cyan;
-    box-shadow: 0px 0px 4px cyan ;
+    border: 1px solid #333;
+    box-shadow: 0px 0px 4px #000 ;
 }
 
 a {
-    color: orange;
+    color: yellow;
 }
 
 .wrapper {

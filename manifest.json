@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "SmartRent",
+  "name": "SmartHome",
   "description": "A smart device dashboard for Chrome",
   "version": "1.0",
   "action": {
     "default_popup": "./devices.html",
-    "default_icon": "./images/aparment-logo.svg"
+    "default_icon": "./images/apartment-logo.png"
   },
   "options_page": "./options.html",
   "options_ui": {
