@@ -8,8 +8,8 @@ This is a short demonstration of a project for a Chrome extension. SmartRent res
 
 Links to 
 
-- [popup](https://georgeschafer.github.io/SmartRent-Chrome-Extension/devices.html)
-- [options](https://georgeschafer.github.io/SmartRent-Chrome-Extension/options.html)
+- [popup](https://georgeschafer.github.io/SmartHomeChromeExtension/devices.html)
+- [options](https://georgeschafer.github.io/SmartHomeChromeExtension/options.html)
 
 Resources
 - [Refresh](https://www.iconpacks.net/free-icon/reset-arrow-14418.html)
